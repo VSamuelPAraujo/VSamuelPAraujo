@@ -27,5 +27,5 @@ I like building interfaces that are not just functional, but also feel good to u
 #
 
 ### 🌐 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vsamuelparaujo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vsamuelparaujo)
 
