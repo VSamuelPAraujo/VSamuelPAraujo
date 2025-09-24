@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I’m Samuel
 
-<!--
-**VSamuelPAraujo/VSamuelPAraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Frontend Developer focused on **React** and **TypeScript**, with a background in **design** that helps me bridge the gap between code and user experience.  
+I like building interfaces that are not just functional, but also feel good to use.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 What I Do
+- Frontend development with React and TypeScript
+- I love the challenge of turning complex ideas into clean, usable interfaces 
+
+---
+
+### 🌐 Let’s Connect
+[LinkedIn](www.linkedin.com/in/vsamuelparaujo)
